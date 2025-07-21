@@ -73,6 +73,19 @@ Bluetooth Ducky is a stealthy HID injection tool built on the ESP32 platform. It
 
 ---
 
+## 📥 Downloads
+
+ESP32 Serial Monitor GUI?
+
+➡️ **Download it from the [Releases](https://github.com/Linuxndroid/Bluetooth-Ducky/releases)** section.
+
+The monitor app allows you to:
+- Send serial commands to your ESP32 device
+- View real-time logs and responses
+- Trigger payloads manually
+- Customize interaction with your Bluetooth Ducky tool
+
+> Available for **Windows (.exe)** — more platforms coming soon.
 ## 🧪 Example Payloads
 
 ```cpp
@@ -96,3 +109,5 @@ Esp32CLI is built for both Educational and Internal use ONLY.</b>
 [![Youtube](https://img.shields.io/badge/Youtube-linuxndroid-redgreen?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg)
 
 [![Browser](https://img.shields.io/badge/Website-linuxndroid-yellowred?style=for-the-badge&logo=browser)](https://www.linuxndroid.in)
+
+
