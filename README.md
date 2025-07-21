@@ -114,9 +114,34 @@ Use these commands via the Serial Monitor or GUI Monitor App:
 | `help` | Show all commands |
 | `About` | Show creator info |
 
-# Disclaimer
-<b>Linuxndroid Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-BLE-DUCKY is built for both Educational and Internal use ONLY.</b>
+## 👤 Creator Info
+
+Created by:  
+**Linuxndroid** & **Krishna Rajput UP61**
+
+🔗 Stay connected for updates, demos, and new tools!
+
+---
+
+## 🛡️ Legal Notice
+
+This tool is intended **only for authorized use** in testing, education, or red teaming.  
+Misuse without consent is strictly prohibited and may violate laws.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ❤️ Credits
+
+- ESP32 BLE Keyboard Library by [T-vK](https://github.com/T-vK/ESP32-BLE-Keyboard)  
+- Inspired by USB Rubber Ducky and other open-source red team tools
+
+---
 
 <br>
 <p align="center">Made with ❤️ By <a href="https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg">Linuxndroid</a></p>
