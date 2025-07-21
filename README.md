@@ -89,7 +89,7 @@ The monitor app allows you to:
 
 # Disclaimer
 <b>Linuxndroid Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-Esp32CLI is built for both Educational and Internal use ONLY.</b>
+BLE-DUCKY is built for both Educational and Internal use ONLY.</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg">Linuxndroid</a></p>
