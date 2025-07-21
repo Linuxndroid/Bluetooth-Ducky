@@ -87,6 +87,33 @@ The monitor app allows you to:
 
 > Available for **Windows (.exe)** — more platforms coming soon.
 
+## 💻 Available Serial Commands
+
+Use these commands via the Serial Monitor or GUI Monitor App:
+
+| Command | Action |
+|--------|--------|
+| `notepad` | Open Notepad |
+| `youtube <search>` | Search & open YouTube |
+| `google <search>` | Search & open Google |
+| `whatsapp <no> <msg>` | Send WhatsApp message |
+| `wp-ss <no>` | Send screenshot via WhatsApp |
+| `cmd` | Open Command Prompt |
+| `shutdown` | Shutdown PC in 5 seconds |
+| `run` | Open Run dialog (Win + R) |
+| `url <command>` | Execute command in Run box |
+| `lock` | Lock the PC |
+| `close` | Close current app |
+| `ENTER` | Press Enter key |
+| `screenshot` | Take a screenshot |
+| `CTRL+<key>` | Press CTRL with a key (e.g., `CTRL+A`) |
+| `WIN`, `LEFT`, `RIGHT`, `UP`, `DOWN` | Arrow or Win keys |
+| `WiFi` | Dump saved Wi-Fi passwords |
+| `Fake` | Show fake system update |
+| `Spam` | Display spam alert box |
+| `help` | Show all commands |
+| `About` | Show creator info |
+
 # Disclaimer
 <b>Linuxndroid Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
 BLE-DUCKY is built for both Educational and Internal use ONLY.</b>
