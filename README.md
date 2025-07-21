@@ -86,12 +86,6 @@ The monitor app allows you to:
 - Customize interaction with your Bluetooth Ducky tool
 
 > Available for **Windows (.exe)** — more platforms coming soon.
-## 🧪 Example Payloads
-
-```cpp
-delay(1000);                        // Wait 1 second
-typeSlow("https://www.instagram.com/linuxndroid");   // Type message
-bleKeyboard.write(KEY_RETURN);      // Press Enter
 
 # Disclaimer
 <b>Linuxndroid Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
@@ -109,5 +103,13 @@ Esp32CLI is built for both Educational and Internal use ONLY.</b>
 [![Youtube](https://img.shields.io/badge/Youtube-linuxndroid-redgreen?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg)
 
 [![Browser](https://img.shields.io/badge/Website-linuxndroid-yellowred?style=for-the-badge&logo=browser)](https://www.linuxndroid.in)
+
+## 🧪 Example Payloads
+
+```cpp
+delay(1000);                        // Wait 1 second
+typeSlow("https://www.instagram.com/linuxndroid");   // Type message
+bleKeyboard.write(KEY_RETURN);      // Press Enter
+
 
 
